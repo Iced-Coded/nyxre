@@ -9,6 +9,8 @@ draft: false
 lang: 'ua'
 ---
 
+Зображення: [*тиць*](https://book.veloren.net/contributors/journalists/press-kit.html)
+
 # Привіт, всесвіте!
 
 Після деякого мовчання, ми нарешті зробили свій веб-сайт, та, вирішили проблеми з хостингом.

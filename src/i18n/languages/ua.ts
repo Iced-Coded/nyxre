@@ -33,6 +33,6 @@ export const ua: Translation = {
   [Key.more]: 'Більше',
 
   [Key.author]: 'Автор',
-  [Key.publishedAt]: 'Опубліковано о',
+  [Key.publishedAt]: 'Опубліковано',
   [Key.license]: 'Ліцензія',
 }
