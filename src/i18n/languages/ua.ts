@@ -1,7 +1,7 @@
 import Key from '../i18nKey'
 import type { Translation } from '../translation'
 
-export const en: Translation = {
+export const ua: Translation = {
   [Key.home]: 'Дім',
   [Key.about]: 'Про нас',
   [Key.archive]: 'Архів',
