@@ -52,6 +52,11 @@ export const navBarConfig: NavBarConfig = {
       url: 'https://github.com/Nyxthorn-Realm',
       external: true,
     }, 
+    {
+      name: 'Donatello',
+      url: 'https://donatello.to/nyxthorn-realm',
+      external: true,
+    },
  ],
 }
 
