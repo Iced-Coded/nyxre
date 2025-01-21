@@ -3,8 +3,8 @@ title: Привіт, всесвіте!
 published: 2025-01-19
 description: 'І так, ми нарешті запустили свій веб-сайт!'
 image: 'https://book.veloren.net/contributors/journalists/data/screenshots/Savannah%20Exploration.jpg'
-tags: []
-category: 'Офф-топ'
+tags: [Новина]
+category: 'Новини'
 draft: false 
 lang: 'ua'
 ---
