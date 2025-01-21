@@ -41,7 +41,6 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
     LinkPreset.Archive,
-    LinkPreset.About,
     {
       name: 'Discord',
       url: 'https://discord.gg/5WSj5QkdPn',     // Internal links should not include the base path, as it is automatically added
@@ -56,6 +55,11 @@ export const navBarConfig: NavBarConfig = {
       name: 'Donatello',
       url: 'https://donatello.to/nyxthorn-realm',
       external: true,
+    },
+    {
+      name: 'Приєднатися',
+      url: '/join/',
+      external: false,
     },
  ],
 }
